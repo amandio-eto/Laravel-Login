@@ -1,0 +1,6 @@
+[2022-12-18 03:03:19] testing.INFO: Hello info  
+[2022-12-18 03:03:19] testing.CRITICAL: Hello critical  
+[2022-12-18 03:03:19] testing.ERROR: Hello error  
+[2022-12-18 03:04:09] testing.INFO: Hello info  
+[2022-12-18 03:04:09] testing.CRITICAL: Hello critical  
+[2022-12-18 03:04:09] testing.ERROR: Hello error  
